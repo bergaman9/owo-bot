@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3d0f93-3b39-445b-b59a-5a8a321e6d29" name="Changes" comment="">
+    <list default="true" id="5c3d0f93-3b39-445b-b59a-5a8a321e6d29" name="Changes" comment="captcha protection update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cogs/owo.py" beforeDir="false" afterPath="$PROJECT_DIR$/cogs/owo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/berga/Desktop/Software Development/Python Projects/My-Projects/contro-bot&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/berga/Desktop/Software Development/Python Projects/Main Projects/contro-bot&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,11 +61,27 @@
       <workItem from="1693181573475" duration="6663000" />
       <workItem from="1693396364367" duration="169000" />
       <workItem from="1693441385822" duration="200000" />
+      <workItem from="1693909305097" duration="1936000" />
+      <workItem from="1694003319911" duration="593000" />
+      <workItem from="1694072371141" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="captcha protection update">
+      <option name="closed" value="true" />
+      <created>1693909361819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693909361819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="captcha protection update" />
+    <option name="LAST_COMMIT_MESSAGE" value="captcha protection update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/owo_bot$main.coverage" NAME="main Coverage Results" MODIFIED="1693185672529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
